@@ -24,7 +24,7 @@ i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
 .flaticon-paper-plane:before {
     content: "\f102";
 }
-.flaticon-college:before {
+.flaticon-school:before {
     content: "\f103";
 }
 .flaticon-bubble-chat:before {
@@ -90,7 +90,7 @@ i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
 .flaticon-student-with-graduation-cap:before {
     content: "\f118";
 }
-.flaticon-college-graduation:before {
+.flaticon-school-graduation:before {
     content: "\f119";
 }
 .flaticon-tag:before {
