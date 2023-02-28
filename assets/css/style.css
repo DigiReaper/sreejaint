@@ -1261,7 +1261,7 @@ Banner Style
 }
 
 .slider-item.banner-bg-1 {
-  background-image: url(../images/banner/banner-img1.png);
+  background-image: url(../images/banner/banner-img1.jpg);
 }
 
 .slider-item.banner-bg-2 {
@@ -1411,7 +1411,7 @@ Banner Style
   position: absolute;
   bottom: 30px;
   left: 30px;
-  bottom: -130px;
+  bottom: -50px;
   -webkit-transform: translateY(-50%);
           transform: translateY(-50%);
   background-color: transparent;
